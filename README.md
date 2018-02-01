@@ -24,3 +24,5 @@ Band structure: https://github.com/WMD-group/Phonons/blob/master/2016_MAPbX3-Com
 pDoS (decomposed + coloured): https://github.com/WMD-group/Phonons/blob/master/2016_MAPbX3-CompleteAssignment/Theory/phonon_pDoS_Eigenmodes.gpt
 
 Phonon eigenmode energy decomposition: https://github.com/jarvist/Julia-Phonons/blob/master/plot-mode-decomposition/MAPI_mode.gpt
+
+Crossing zero / autocorrelation function: https://github.com/jarvist/MAPI-MD-analysis/blob/master/timetocrosszero.gpt ; plot: https://github.com/jarvist/MAPI-MD-analysis/blob/master/300K_FAPI_correlation.png
